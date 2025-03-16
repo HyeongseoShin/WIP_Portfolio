@@ -3,7 +3,7 @@
 
 
 # WIP
-<img src = "https://github.com/user-attachments/assets/951eeb26-45c9-4297-b22a-db9c07fb86e9" />
+<img src = "https://github.com/user-attachments/assets/951eeb26-45c9-4297-b22a-db9c07fb86e9" width = 30% height = 30%/>
 [사진][사진]
 [사진] [사진]
 
