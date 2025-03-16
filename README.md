@@ -98,11 +98,11 @@ https://github.com/user-attachments/assets/6d1d2a11-9ab1-4927-95b5-aa462f33c3c3
 
 ## 담당 업무
 
-- BackendServer
-- LevelEditor
-- LevelEditorManager
-- Player
-- PlayerData
+|폴더 / 스크립트 명|설명|
+|----------|----------------|
+|MazeLogic|미로 제작과 관련된 스크립트 모음|
+|GameLogic|게임 플레이 및 규칙과 관련된 스크립트 모음|
+|GameManager.cs|전체 게임 흐름을 제어하는 게임 매니저|
 
 
 
