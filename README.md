@@ -4,7 +4,6 @@
 
 # WIP
 
-<br><br>
 
 ## 프로젝트 개요
 <img src = "https://github.com/user-attachments/assets/951eeb26-45c9-4297-b22a-db9c07fb86e9" width = 30% height = 30%/>
@@ -27,7 +26,6 @@
   - 기획 및 프로그래밍 : 1명
   - 아트 : 1명
 
-
 <br><br>
 
 
@@ -40,17 +38,13 @@ https://github.com/user-attachments/assets/6d1d2a11-9ab1-4927-95b5-aa462f33c3c3
 
 <br><br>
 
-
-
 - "플레이어와 같은 색은 지나가고 다른 색은 부딪힌다"라는 성질을 이용해 플레이어의 색을 바꿔가며 퍼즐을 클리어하는 게임
 - 이전 프로젝트 Pa!nt에서 조작이 편했으면 좋겠다는 유저 피드백을 받아 제작한 하이퍼 캐주얼 버전
 
 <br><br>
 
-
 ## 특징
 
-<br><br>
 
 ### Infinite 모드
 
@@ -94,7 +88,6 @@ https://github.com/user-attachments/assets/6d1d2a11-9ab1-4927-95b5-aa462f33c3c3
 <br><br>
 
 
-
 ## 씬 구성
 
 
@@ -104,7 +97,6 @@ https://github.com/user-attachments/assets/6d1d2a11-9ab1-4927-95b5-aa462f33c3c3
 <img src="https://github.com/user-attachments/assets/26eaadc6-dc99-4fba-81df-49a4b3ef8ba4" width = 50% height = 50% />
 
 <br><br>
-
 
   
 ## 담당 업무
