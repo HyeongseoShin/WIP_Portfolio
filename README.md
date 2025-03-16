@@ -29,7 +29,7 @@
 
 
 
-## 소개
+## 게임 소개
 
 
 https://github.com/user-attachments/assets/6d1d2a11-9ab1-4927-95b5-aa462f33c3c3
