@@ -2,8 +2,8 @@
 유니티 2D 하이퍼캐주얼 퍼즐 게임 WIP 포트폴리오
 
 
-
-#WIP
+# WIP
+<img src = "(https://github.com/user-attachments/assets/951eeb26-45c9-4297-b22a-db9c07fb86e9" />
 [사진][사진]
 [사진] [사진]
 
@@ -12,6 +12,7 @@
 게임 장르: 하이퍼 캐주얼, 퍼즐
 플랫폼 : 모바일
 개발 환경 : Unity (2020.3.25f LTS)
+
 
 기간 : 23.3 ~ 24.4
 인원 : 3명
@@ -46,6 +47,35 @@ Playworks 광고 영상 첨부
 - Player
 - PlayerData
 
-각 담당업무별 세부 구현 사항 PPT처럼 표현 필요??
+
+
+
+## 담당 업무
+
+|주요 기능|세부 사항|
+|----------|----------------|
+|Player Data 관리 및 서버 연동|인게임 데이터 Local Json 파일로 저장 (암호화)<br>스팀 계정 연동<br>유저 정보, 클리어 정보, 업적 달성 정보, 스테이지 플레이 로그, 커스텀 맵 데이터 등등 Read / Write|
+|커스텀 레벨 에디터 제작 참여|레벨 데이터 파일 json 관리<br>CRUD|
+|SDK 연결|Steamworks<br>Google Play Games (현재 사용 X)<br>뒤끝 서버 (게임서버 SaaS)|
+|Player 조작감 개선|점프 버퍼 타임<br>코요테 타임|
+|Scene 관리 및 유기적 연결|다중 씬이 열려 있을 때 예외 처리<br>인게임 내 카메라 전환 관리|
+|최적화|Sprite Atlas<br>Addressable Asset System<br>카메라 및 스크립트 최적화|
+|Post Processing을 이용한 흑백 연출||
+|힌트 기능 제작||
+|인트로 컷신 & 튜토리얼 제작||
+|퍼즐 레벨 디자인 (44개)||
+|UI / UX||
+
+
+## 스크립트 폴더 설명
+|폴더 명|설명|
+|--|--|
+|BackendServer|플레이 정보를 서버와 연동하기 위해 필요한 스크립트 모음|
+|PlayerData|인 게임에서 플레이어와 관련된 모든 데이터 스크립트 모음|
+|Player|플레이어와 관련된 모든 동작(조작, 이동, 상호작용)을 수행하는 스크립트|
+|LevelEditor|직접 레벨 제작하는 툴을 개발할 때 필요한 스크립트 모음|
+|LevelEditorManager|서버와 연동하여 유저들의 커스텀 레벨을 관리하는 스크립트 모음|
+
+
 
 
