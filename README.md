@@ -9,27 +9,23 @@
 
 <img src = "https://github.com/user-attachments/assets/a84bf6d2-7b73-4c11-b988-352984028d35" width = 30% height = 30%/>
 
-<img src = "https://github.com/user-attachments/assets/c2a7b494-035d-48a0-9878-9861d6a385c5" width = 30% height = 30%/>
-
 <img src = "https://github.com/user-attachments/assets/ce03b775-00ee-44ab-b582-8a42ff98df40" width = 30% height = 30%/>
-//<img src = "" width = 30% height = 30%/>
-
-1. 소개
-===========================
-게임 장르: 하이퍼 캐주얼, 퍼즐
-플랫폼 : 모바일
-개발 환경 : Unity (2020.3.25f LTS)
 
 
-기간 : 23.3 ~ 24.4
-인원 : 3명
+* 게임 장르: 하이퍼 캐주얼, 퍼즐
+
+* 플랫폼 : 모바일
+
+* 개발 환경 : Unity (2020.3.25f LTS)
+
+* 기간 : 23.3 ~ 24.4
+
+* 인원 : 3명
 - 프로그래밍 : 1명 (본인)
 - 기획 및 프로그래밍 : 1명
 - 아트 : 1명
 
-스팀 얼리 액세스 출시
-페이지 링크
-
+## 소개
 
 Playworks 광고 영상 첨부
 
