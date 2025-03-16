@@ -25,6 +25,8 @@
   - 기획 및 프로그래밍 : 1명
   - 아트 : 1명
 
+
+
 ## 소개
 
 
@@ -33,15 +35,18 @@ https://github.com/user-attachments/assets/6d1d2a11-9ab1-4927-95b5-aa462f33c3c3
 
 
 #### 설명
+
+
 - "플레이어와 같은 색은 지나가고 다른 색은 부딪힌다"라는 성질을 이용해 플레이어의 색을 바꿔가며 퍼즐을 클리어하는 게임
 - 이전 프로젝트 Pa!nt에서 조작이 편했으면 좋겠다는 유저 피드백을 받아 제작한 하이퍼 캐주얼 버전
 
 ## 특징
 
+
 ### Infinite 모드
 
-제한 시간이 종료될 때까지 생성되는 미로를 계속 클리어하는 모드
 
+제한 시간이 종료될 때까지 생성되는 미로를 계속 클리어하는 모드
 
 
 <img src = "https://github.com/user-attachments/assets/016a69e1-18ae-4a0b-a87e-37e845228a5b" width = 30% height = 30% />
@@ -49,8 +54,8 @@ https://github.com/user-attachments/assets/6d1d2a11-9ab1-4927-95b5-aa462f33c3c3
 <img src = "https://github.com/user-attachments/assets/ae49a6a1-34f1-4756-a9fd-a92b56fb349e" width = 30% height = 30% />
 
 
-
 ### Arcade 모드
+
 
 난이도에 따른 1000개의 스테이지의 미로를 클리어하는 모드
 각 스테이지마다 최대 이동 횟수를 넘으면 리셋
@@ -63,9 +68,12 @@ https://github.com/user-attachments/assets/6d1d2a11-9ab1-4927-95b5-aa462f33c3c3
 
 ### 색 보정 모드 지원
 
+
 #### 원본 vs 색 보정 모드
 
+
 색약 플레이어를 위한 색 보정 모드 지원
+
 
 <img src = "https://github.com/user-attachments/assets/59a59cab-4f87-48ed-ac99-62cbb477a92b" width = 30% height = 30% />
 
@@ -73,9 +81,8 @@ https://github.com/user-attachments/assets/6d1d2a11-9ab1-4927-95b5-aa462f33c3c3
 
 
 
-
-
 ## 씬 구성
+
 
 하이퍼 캐주얼 장르 고려한 단일 씬 구조 설계
 
@@ -84,6 +91,7 @@ https://github.com/user-attachments/assets/6d1d2a11-9ab1-4927-95b5-aa462f33c3c3
 
   
 ## 담당 업무
+
 
 |주요 기능|세부 사항|
 |----------|----------------|
@@ -96,7 +104,8 @@ https://github.com/user-attachments/assets/6d1d2a11-9ab1-4927-95b5-aa462f33c3c3
 |UI/UX 제작||
 
 
-## 담당 업무
+## 스크립트 폴더 설명
+
 
 |폴더 / 스크립트 명|설명|
 |----------|----------------|
