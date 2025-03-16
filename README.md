@@ -4,6 +4,7 @@
 
 # WIP
 
+<br><br>
 
 ## 프로젝트 개요
 <img src = "https://github.com/user-attachments/assets/951eeb26-45c9-4297-b22a-db9c07fb86e9" width = 30% height = 30%/>
@@ -27,6 +28,7 @@
   - 아트 : 1명
 
 
+<br><br>
 
 
 ## 게임 소개
@@ -36,17 +38,19 @@ https://github.com/user-attachments/assets/6d1d2a11-9ab1-4927-95b5-aa462f33c3c3
 
 
 
-<br>
+<br><br>
 
 
 
 - "플레이어와 같은 색은 지나가고 다른 색은 부딪힌다"라는 성질을 이용해 플레이어의 색을 바꿔가며 퍼즐을 클리어하는 게임
 - 이전 프로젝트 Pa!nt에서 조작이 편했으면 좋겠다는 유저 피드백을 받아 제작한 하이퍼 캐주얼 버전
 
-<br>
+<br><br>
+
 
 ## 특징
 
+<br><br>
 
 ### Infinite 모드
 
@@ -58,6 +62,7 @@ https://github.com/user-attachments/assets/6d1d2a11-9ab1-4927-95b5-aa462f33c3c3
 <img src = "https://github.com/user-attachments/assets/c07666fd-416f-4622-bb46-34ff0c6ff452" width = 30% height = 30% />
 <img src = "https://github.com/user-attachments/assets/ae49a6a1-34f1-4756-a9fd-a92b56fb349e" width = 30% height = 30% />
 
+<br><br>
 
 ### Arcade 모드
 
@@ -70,6 +75,7 @@ https://github.com/user-attachments/assets/6d1d2a11-9ab1-4927-95b5-aa462f33c3c3
 
 <img src = "https://github.com/user-attachments/assets/9956fb88-db81-4ed9-9bca-17a97468be6b" width = 30% height = 30% />
 
+<br><br>
 
 ### 색 보정 모드 지원
 
@@ -85,6 +91,7 @@ https://github.com/user-attachments/assets/6d1d2a11-9ab1-4927-95b5-aa462f33c3c3
 <img src = "https://github.com/user-attachments/assets/bb4fd6ab-cc83-43f1-962f-4544440409e1" width = 30% height = 30% />
 
 
+<br><br>
 
 
 
@@ -96,6 +103,7 @@ https://github.com/user-attachments/assets/6d1d2a11-9ab1-4927-95b5-aa462f33c3c3
 
 <img src="https://github.com/user-attachments/assets/26eaadc6-dc99-4fba-81df-49a4b3ef8ba4" width = 50% height = 50% />
 
+<br><br>
 
 
   
@@ -113,7 +121,7 @@ https://github.com/user-attachments/assets/6d1d2a11-9ab1-4927-95b5-aa462f33c3c3
 |UI/UX 제작||
 
 
-
+<br><br>
 
 ## 스크립트 폴더 설명
 
