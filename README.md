@@ -40,60 +40,59 @@ https://github.com/user-attachments/assets/6d1d2a11-9ab1-4927-95b5-aa462f33c3c3
 
 ### Infinite 모드
 
-<img src = "" width = 40% height = 40% />
+<img src = "https://github.com/user-attachments/assets/016a69e1-18ae-4a0b-a87e-37e845228a5b" width = 40% height = 40% />
+<img src = "https://github.com/user-attachments/assets/c07666fd-416f-4622-bb46-34ff0c6ff452" width = 40% height = 40% />
+<img src = "https://github.com/user-attachments/assets/ae49a6a1-34f1-4756-a9fd-a92b56fb349e" width = 40% height = 40% />
+
 제한 시간이 종료될 때까지 생성되는 미로를 계속 클리어하는 모드
 
 ### Arcade 모드
 
-<img src = "" width = 40% height = 40% />
+<img src = "https://github.com/user-attachments/assets/ee222667-91de-4caa-9e27-4e85deb59625" width = 40% height = 40% />
+
+<img src = "https://github.com/user-attachments/assets/9956fb88-db81-4ed9-9bca-17a97468be6b" width = 40% height = 40% />
+
+
 난이도에 따른 1000개의 스테이지의 미로를 클리어하는 모드
+각 스테이지마다 최대 이동 횟수를 넘으면 리셋
 
 ### 색 보정 모드 지원
 
-<img src = "" width = 40% height = 40% />
+#### 원본 vs 색 보정 모드
+<img src = "https://github.com/user-attachments/assets/59a59cab-4f87-48ed-ac99-62cbb477a92b" width = 40% height = 40% />
+
+<img src = "https://github.com/user-attachments/assets/bb4fd6ab-cc83-43f1-962f-4544440409e1" width = 40% height = 40% />
+
+
 색약 플레이엉를 위한 색 보정 모드 지원
 
 
-씬 구성 설명 필요?
-  
-담당 업무
-- 표로 작성
+## 씬 구성
 
-스크립트 폴더 설명
+하이퍼 캐주얼 장르 고려한 단일 씬 구조 설계
+<img src="https://github.com/user-attachments/assets/26eaadc6-dc99-4fba-81df-49a4b3ef8ba4" width = 50% height = 50% />
+
+  
+## 담당 업무
+
+|주요 기능|세부 사항|
+|----------|----------------|
+|미로 생성 알고리즘 제작 참여||
+|게임 플레이 로직 제작||
+|Player Data 관리|인게임 데이터 Json으로 Local에 저장|
+|SDK 연결|GPGS <br> Google Admob <br> Unity Playworks|
+|GPGS 계정 연동||
+|Playable 광고 소스 제작|Unity Playworks 활용|
+|UI/UX 제작||
+
+
+## 담당 업무
+
 - BackendServer
 - LevelEditor
 - LevelEditorManager
 - Player
 - PlayerData
-
-
-
-
-## 담당 업무
-
-|주요 기능|세부 사항|
-|----------|----------------|
-|Player Data 관리 및 서버 연동|인게임 데이터 Local Json 파일로 저장 (암호화)<br>스팀 계정 연동<br>유저 정보, 클리어 정보, 업적 달성 정보, 스테이지 플레이 로그, 커스텀 맵 데이터 등등 Read / Write|
-|커스텀 레벨 에디터 제작 참여|레벨 데이터 파일 json 관리<br>CRUD|
-|SDK 연결|Steamworks<br>Google Play Games (현재 사용 X)<br>뒤끝 서버 (게임서버 SaaS)|
-|Player 조작감 개선|점프 버퍼 타임<br>코요테 타임|
-|Scene 관리 및 유기적 연결|다중 씬이 열려 있을 때 예외 처리<br>인게임 내 카메라 전환 관리|
-|최적화|Sprite Atlas<br>Addressable Asset System<br>카메라 및 스크립트 최적화|
-|Post Processing을 이용한 흑백 연출||
-|힌트 기능 제작||
-|인트로 컷신 & 튜토리얼 제작||
-|퍼즐 레벨 디자인 (44개)||
-|UI / UX||
-
-
-## 스크립트 폴더 설명
-|폴더 명|설명|
-|--|--|
-|BackendServer|플레이 정보를 서버와 연동하기 위해 필요한 스크립트 모음|
-|PlayerData|인 게임에서 플레이어와 관련된 모든 데이터 스크립트 모음|
-|Player|플레이어와 관련된 모든 동작(조작, 이동, 상호작용)을 수행하는 스크립트|
-|LevelEditor|직접 레벨 제작하는 툴을 개발할 때 필요한 스크립트 모음|
-|LevelEditorManager|서버와 연동하여 유저들의 커스텀 레벨을 관리하는 스크립트 모음|
 
 
 
